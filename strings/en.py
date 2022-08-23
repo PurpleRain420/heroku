@@ -90,7 +90,7 @@ conversation_admin_select_product_to_delete = "❌ Quel produit voulez vous supp
 conversation_admin_select_user = "Modifier un USER."
 
 # Conversation: click below to pay for the purchase
-conversation_cart_actions = "<i>Ajoutez des produits a votre panier en cliquant sur le bouton ADD sous celui ci" \
+conversation_cart_actions = "<i>Ajoutez des produits a votre panier en cliquant sur le bouton ADD en dessous" \
                             " Quand vous avez finis, revenez a ce message et" \
                             " cliquez sur DONE.</i>"
 
@@ -422,7 +422,7 @@ error_not_enough_credit = "⚠️ Vous ne possedez pas asser de credit."
 error_order_already_cleared = "⚠️  Commande deja cloturée."
 
 # Error: no orders have been placed, so none can be shown
-error_no_orders = "⚠️  Vous n'avez rien achetés, Donc il n'y a rien a afficher."
+error_no_orders = "⚠️  Vous n'avez rien acheté, Donc il n'y a rien a afficher."
 
 # Error: selected user does not exist
 error_user_does_not_exist = "⚠️  The selected user does not exist."
